@@ -1,0 +1,2 @@
+# libmgnt
+library management
